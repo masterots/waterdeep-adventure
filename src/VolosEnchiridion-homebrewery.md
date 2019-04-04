@@ -1,8 +1,3 @@
----
-title: Volo's Waterdeep Enchiridion
-# layout: post
----
-
 <style>
   .phb#p1{ text-align:center; }
   .phb#p1:after{ display:none; }
@@ -24,7 +19,7 @@ title: Volo's Waterdeep Enchiridion
 <div class='wide'>
   **Published by Tym Waterdeep Limited in association with the
 
-Fellowship of Innkeepers and the Fellowship of Carters and Coachmen**
+Fellowship of Innkeepers and the Fellowship of Carters and Coachmen\*\*
 
   <div style='margin-top:140px'>
 #### I, Volothamp Geddarm, verily attest to the veracity of the words printed herein. "Set your course by the truth and you shall never be lost, no matter how far you wander." I coined this well-worn adage myself years ago, and it has served me well in all my travels.[1]
@@ -42,7 +37,7 @@ Waterdeep
 
 </div>
 
-
+\page
 
 <div class='wide'>
 Welcome, Traveler! You have in your hands the foremost and most up-to-date guide to the city &mdash; smiled over by none other than its Open Lord, Lady Laeral Silverhand. This chapbook will serve you well until my semindal work on the subject, Volo's Guide to Waterdeep &mdash; sadly long out of print, but now a tome prized by collectors &mdash; can be updated and printed anew. Ask any broadsheet seller, innkeeper, shopkeeper, tavern owner, or bookseller if they'll soon have copies of the new edition for sale!
@@ -74,7 +69,7 @@ If you approach by air, expect a vigorous pursuit and confrontation with the Gri
 
 The splendors that await you in Waterdeep are legendary. Each of the city's wards is detailed in this work, telling you what to expect depending on where you are, as well as what thrilling things you might see and do. Before that, however, there are the small matters of knowing something of the history of the place you visit, and of understanding how to comport yourself in the Sword Coast's grandest metropolis.
 
-
+\page
 
 <div class='wide'>
 ### A Long History (in Brief)
@@ -109,7 +104,7 @@ Ahgharion was instrumental in establishing many of Waterdeep's other institution
 Within that barrier lie additional protective wards, as demonstrated by the floating bones of the last person who tried to defy them. The name of this poor soul has been lost to time, but the miscreant was likely a wizard who sought to steal the magic treasures that had been entombed with their former owner. Now they hang in the air beyond the invisible force cage in rough semblance of their natural position, occasionally displaced temporarily by strong winds or mischievous children with long sticks.
 
 Ahghairon's wise rule is celebrated on the first day of Eleasis, which has come to be known as Ahghairon's Day. For more about this day, see "City Celebrations."
-
+\page
 Many significant events stand out in Waterdeep's history. But none have had so great an effect on daily life than the three apocalyptic periods known as the Time of Troubles, the Spellplague, and the Sundering &mdash; the most recent (and hopefully final). On all these occasions, the actions of gods at war with one another led to the loss or the twisting of magic in the world. During the Time of Troubles, Waterdeep stood at the center of events. But the effects of the more recent crises can still be seen in the city today, even though they occurred a great distance from where Waterdeep stands.
 
 When the gods walked among mortals during the Time of Troubles, they were cast down to the world by the mysterious Overgod Ao in 1358 DR. Until then, none but the gods had known of Ao's existence, and since then, we have learned little more. As all know, the crisis began with the theft of the _Tablets of Fate_ by the vile and ambitious gods Bane and Myrkul, later joined by Bhall. These mystic artifacts supposedly determine the extent of the gods' power, and dictate how they use that power. As punishment for this affront, Ao cast down the gods (or the ones that humans worshiped, at any rate) and then demanded that they return the tablets to him.
@@ -126,7 +121,7 @@ After the Spellplague came the Sundering. Elf scholars insist on calling it the 
 
 Apparently all of this was forseen by Waterdeep's legendary wizard Khelben Arunsun, and it was only through his wisdom and the efforts of Elminster, Laeral Silverhand &mdash; now the Open Lord of Waterdeep &mdash; and an handful of others that the world was saved. According to Elminster, Ao remade the _Tablets of Fate_ as a result, restoring the divine order and separating Abeir from Toril. But take that as you may. According to that roguish longbeard, he saves the world without anyone noticing every other month or so.
 
-
+\page
 
 <div class='wide'>
   <img
@@ -148,7 +143,7 @@ Waterdeep has a complex library of law and custom set by precedent, the main bod
 #### Arms, Armor, and Combat
 
 Individuals accustomed to the rough-and-tumble life in much of the North are often surprised by the fact that Waterdavians go about unarmed and unarmored. Yet Waterdeep doesn't have any law that forbids carrying weapons or armor. Instead, it has a culture of civility that makes such behavior unnecessary.
-
+\page
 Dueling has long been illegal in Waterdeep, as has any sort of act involving assault. Individuals caught brawling by the Watch, will all be arrested and judged regardless of who started the fracas, or why. (The tavern brawls that typically break out under the influence of too much drink will often be overlooked by the Watch, as long as the proprietor doesn't seek payment for damages and no one is significantly injured.) Sport fighting, such as boxing or wrestling, is legal only if it occurs in a location registered with the city for that purpose. Additionally, any blade more than one foot in length is subject to an extra tax whenever it is sold, which helps to explain why Waterdavians prefer to carry knives and knuckledusters for self-defense.
 
 Businesses and individuals to employ armed guards, but except for nobles or foreign envoys, few people travel about the city with such protection. As such, the sight of armed and armored individuals walking the streets who aren't in the livery of the city or one of its noble houses inspires caution in most Waterdavians. Folk assume that you wouldn't bother lugging around such equipment unless you either intend violence or expect that it might soon be visited upon you.
@@ -186,7 +181,7 @@ Members of the Watchful order form a more or less sociable association in the ci
 #### Coinage
 
 As should be expected of any city of standing, Waterdeep mints its own coins. All taxes, fines, and guild fees must be paid either in Waterdavian coin or the currency of any member settlement of the Lords' Alliance. Though no law requires you to pay for goods or services in Waterdavian coin, the drudgery or weighing foreign curency and checking its purity prompts many retailers and operators of swift-exchange businesses &mdash; including drays and hire-coaches &mdash; not to accept anything but coins minted in Waterdeep.
-
+\page
 Though you can trade your coinage for Waterdeep currency with anyone willing to do so, the exchequers at the Palace of Waterdeep make exchanges with no associated fee. The queue there can be quite long, necessitating that you make an appointment &mdash; often a day or more in advance. For a swifter transaction, I recommend any member of the Guild of Trusted Pewterers and Casters, or of the Jewelers' Guild. Both have the most reliable scales and abide by guild-wide rates of exchange.
 
 Be sure to exchange taols and harbor moons before leaving the city, as their value greatly diminishes elsewhere!
@@ -231,7 +226,7 @@ Thanks to the Scriveners', Scribes', and Clerks' Guild, Waterdeep has a remarkab
 ##### Landmarks
 
 Proud Mount Waterdeep provides a useful landmark for general orientation. It stands stark across the skyline to the west, its far slopes dropping right into the sea. A spur of the mountain juts inland, and atop the easternmost point of this spur stands Castle Waterdeep. If you can see these landmarks, it's relatively easy to orient yourself. The mountian peak looms over the southern third of the city near the port in the south. The City of the Dead lies opposite this northern ridge of Mount Waterdeep, which descends down to the Field of Triumph, the city's great coliseum.
-
+\page
 One of Waterdeep's titanic walking statues, no longer mobile, offers antoher way to orient yourself on a local scale. At nine stories tall, twice the height of any buildings nearby, the Honorable Knight stands guard in a block of buildings between Snail Street and the Way of the Dragon. Positioned as it is night the place where four wards meet, and you can use it to judge where you stand. If it is south and west of your position, you are in the Trades Ward. North and west? The Southern Ward. South and east? The Castle Ward North and east? You're in the Dock Ward.
 
 <div class='descriptive'>
@@ -274,7 +269,7 @@ While you might encounter dwarf diplomats from Gauntlgrym, satraps of Amn, duche
 Noility in Waterdeep are granted the right to bear arms. In the legal code of the city, this means not merely the ability to carry a weapon, but the right to retain up to seventy equipped soldiers. The soldiers always wear a house's colors and the house's "arms of grace" &mdash; a heraldic device often borne on a shield, worn as a cloak pin, or affixed to a helmet. Others throughout the city, even foreign dignitaries, are permitted to retain only up to sixteen armed warriors, and laws against impersonating those in the employ of the nobility mean that other mercenaries and bodyguards most often dress plainly, so as not to be mistaken for the retinue of a noble. So your first clue that you might be in the company of a noble is the sight of a large number of armed and uniformed soldiers.
 
 Many nobles, particulary younger ones seeking entertainment, travel without an entourage of guards or only in the company of other nobles. In this case, you'll know you're int he presence of nobility because of the deference others give them. Follow suit, and you should be fine.
-
+\page
 Above all, be polite. Always address a known noble as "Lord" or "Lady." A short bow or a nod of the head to acknowledge a noble upon each meeting and parting is customary. Obsequiousness and servility is something all Waterdavians scorn, but you should also beware of acting in an overly familiar, boastful, or disrespectful way when in the presence of any noble. Though this sort of behavior isn't a crime, and laws against dueling prevent a noble from initiating a direct armed confrontation, the noble families of Waterdeep have immense power in the city, often in unexpected quarters. Many have influence in nations as distant as Calimshan and Cormyr. Be assured that any slighting of a noble will not be forgotten or easily forgiven.
 
 If you're not certain whether someone is a noble, address the gentleman as "Saer", or the gentlewoman as "Goodwoman." Neither will give offense, and generally a noble will politely correct you as to their actual title.
@@ -314,13 +309,13 @@ Many guilds have codes that entwine each other, complicating matters even more f
 
 Moreover, the work will not be complete until members of the Guild of Fine Carvers and the Guild of Stonecutters, Masons, Potters, and Tile-makers design and craft any decorative elements of wood, stone, or ceramics, and after the Most Careful Order of Skilled Smiths and Metalforgers has manufactured and installed any door hinges. If the buiding is to be connected to the sewers or a city water supply, the Cellarers' and Plumbers' Guild must be called upon again to do that work. Want glazed windows installed? For that, you need to hire members of the Guild of Glassblowers, Glaziers, and Spectacle-makers.
 
-
+\page
 
 If you do business in the city as anything other than a purchaser of goods and services, I strongly advise you to seek out a local solicitor and pay to be guided through the process. No guild of solicitors exists, so be sure your choice comes highly recommended by individuals you can trust. To learn the peculiarities of any guild's rules, consult someone on duty at the guild headquarters or ask a senior guild member.
 
 All that said, working at a guild-related profession without being a member of that guild isn't illegal. Guild members have no lawful recourse to interfere in the business of someone who chooses not to join the organization. But if you practice a trade or operate a business without becoming a member of the appropriate guild, word spreads, and you'll find that your coin isn't good for purchasing the goods and services of anyone who is a guild member. Since that group includes virtually everyone who sells the necessities of life or offers shelter for a fee, the benefits of joining a guild swiftly become apparent to those who procrastinate in this regard.
 
-
+\page
 
 ### The Wards of Waterdeep
 
@@ -359,7 +354,7 @@ Blue and gold are the Sea Ward's colors in competitions, and the ward's mascot i
 Must-see locations in the Sea Ward begin, of course, with the Field of Triumph, but just across the street is the no less remarkable House of Heroes &mdash; the largest temple in the city. Dedicated to Tempus, its many grand halls celebrate the city's champions of both battle and sport. The winners of ward competitions are paraded here after their victories, often carried on shoulders or passed from hand to hand over the heads of a crowd. It is a sight you shouldn't miss.
 
 You should also visit the House of Wonder. This is surely the most splendid temple dedicated to the gods of magic &mdash; with Mystra foremost among them, of course &mdash; in all the world. Although your eye will be drawn to its ornate towers, brilliant mosaics, and magical displays, look also for the humble violets growing amid the ostentation. These delicate flowers were Ahghairon's favorite, and they are planted about the temple in memory of him.
-
+\page
 Two other temples in the ward are as impressive, but in different ways. The beauteous House of the Moon has the tallest tower of any temple in the city, rising some seventy-five feet above the street. At its top, priests of Selûne bask in the light of the moon in all seasons. The House of Inspired Hands, dedicated to Gond, presents an altogether less peaceful experience. Here, all the great innovative minds of the city invent and experiment, attempting to create everything from flying machines to stronger door hinges. But don't expect a musuem of marvels such as can be found in Baldur's Gate. At this site, "worship is work," as anyone at the temple is liable to tell you.
 
 If you're looking for some good fortune, you should surely visit the Tower of Luck, a temple complex dedicated to Tymora. The "tower" in question is actually a many-pillared atrium ingeniously roofed over with glass. Beneath the roof, a bronze sculpture of a diminutive Tymora, depicted as a laughing young girl, appears to be leaping from the very top of an astounding fountain. To pay your respects and make a wish, you come around to the fountain on a walkway and toss your coin to Tymora. Managing to land it in her outstretched hand is a sure sign of her favor.
@@ -381,7 +376,7 @@ As these servants spread out to knock on doors and begin their work, the residen
 The liveliest, and perhaps the loveliest, part of the ward is the Cliffwatch. Here, the plateau upon which Waterdeep sits features cliffs so steep and high that the city wall is interrupted to either side of them. Some of the most lavish residences and most luxurious taverns and inns of Waterdeep stand along this space, boasting terraces and balconies that allow one to take in the beautiful sight of the countryside to the east. Yet you need not pay their high prices, for a public walkway along the cliff's edge offers pedestrians ample opportunity to enjoy the view.
 
 The North Ward's colors are green and orange, and its mascot is the gentle white dove, depicted in flight. Many North Ward homes have dovecotes on their roofs, and the great flocks of the birds that circle over the city at dawn and dusk are a delight to behold.
-
+\page
 <div class='wide'>
 ##### Major Temples of Waterdeep
 | Deity or Deities   | Temple Name              | Location      |
@@ -422,7 +417,7 @@ On the opposite end of the mountain, close to the Naval Harbor, stands Mirt's Ma
 Mirt has quite a history with Durnan, the proprietor of the Yawning Portal. Together they descended into "the Well," as the entrance to Undermountain was known in olden days. Waterdeep used to throw criminals into the Well, leaving them to die horribly in Undermountain's dungeons. Durnan and Mirt entered the dungeons of their own free will &mdash; and not only that, but returned laden with treasures. Both used magic to extend their lives, but they eventually parted ways. Mirt kept on with a life of adventure, while Durnan built the tavern called the Yawning Portal over the Well and now, almost two centuries later, charges coin to descend into it. Not a bad way to part fools from their money!
 
 The glorious Spires of the Morning, dedicated to Lathander, is one of Waterdeep's most beautiful temples. But it is rivaled in this ward by the Temple of the Seldarine, dedicated to all the elf gods. The journey through Mount Melody Walk, a tunnel cut through Mount Waterdeep, to New Olamn's academy of music and other arts is a wondrous daytime excursion. The Market offers a wild array of sights, smells, and sounds in which folk might lose themselves for a tenday. The Font of Knowledge is a temple to Oghma, yes, but also the city's largest public library. Titles written throughout the ages can be viewed here &mdash; under the watchful eyes of the temple's priests. In short (if I can claim this section of the enchiridion to be such), the Castle Ward offers far too many splendors to list them all here.
-
+\page
 The Castle Ward's colors are blue and purple, and its mascot is a griffon, typically depicted in gold. These borrow colors from the city's flag and reference the Griffon Cavalry, of course. Champions for the ward often come from among the ranks of teh Guard, the Navy, or the Cavalry. Although such competitors often have the advantage in races and competitions, their crowds of rabidly cheering fans are naturally much smaller than those of other wards.
 
 #### Trades Ward
@@ -448,7 +443,7 @@ Residents of the Southern Ward take pride in their legacy as overland travelers 
 Not a landmark as such, but surely a sight that must be seen, is the Moon Sphere. This isn't a structure but an event that occurs during every full moon, when a glowing, spherical field of blue light appears in the square known as the Dancing Court. Any creatures that enter the sphere find that they can fly about inside it just by willing themselves to do so. For centuries, Waterdavians have used the supernatural events to develop a unique flying style of dance &mdash; but amature enthusiasts aren't welcome, except on certain daylight appearances of the full moon.
 
 Even when the full moon isn't out, the Dancing Court is worth visiting because of the adjacent festhall, the Jade Dancer. During appearances of the Moon Sphere, people sometimes daringly leep into the field of magic from the balconies of this three-story tavern, dance hall, and inn. But the festhall takes its name from a peculiar dancer within it rather than those in the court outside. The "Jade Dancer" is an eight-foot-tall jade statue of a woman that magically animates and dances for patrons &mdash; and on occasion serves as a bouncer. Elminster has informed me that despite its dexterity and seemingly fragile beauty, the Jade Dancer is as puissant as a stone golem. So enjoy the show, but don't get too rowdy.
-
+\page
 #### Dock Ward
 
 The Dock Ward was long considered the most dangerous district in the city, but the Field Ward has since taken that title. I don't doubt the residents of the Dock Ward are glad of it, for in some respects this area has never truly deserved its bad reputation.
@@ -484,7 +479,7 @@ Though not an official ward of the city, the Field Ward is commonly referred to 
 The area is a muddy mess, populated by the poorest people and those who take advantage of those folks' desperation. It has no sewer system and isn't served by the Dungsweepers' Guild &mdash; a fact that will be quite evident to your nose if you venture here. I don't recommend that you spend any more time here than it takes to pass through from one gate to the next.
 
 The Guild of Butchers operates several slaughterhouses, smokehouses, and leather-making facilities in the area &mdash; noisome operations that have been pushed out of the city proper. A word to the wise: being friendly with a burly fellow who is good with a knife is one of your best defenses in the Field Ward. The other place you might solicit aid is Endshift Tavern, a popular stop for off-duty members of the City Guard, situated on the corner of Endshift Street and the Breezeway. Though the guards might not be inclined to assist you, your status as a visitor to Waterdeep technically obliges them to help you reach the city proper in safety.
-
+\page
 <div class='descriptive'>
 ##### The Wonders of the Waymoot
 
@@ -507,7 +502,7 @@ If you visit this area, I recommend the Snobeedle Orchard and Meadery, owned and
 ##### Undermountain
 
 Tales of this legendary dungeon below Waterdeep are told well by many in the city, but I'll provide you with the basic truths here. Beneath the plateau of Waterdeep lies the largest and deepest dungeon in the world. It sprawls out under the city, said to plunge as many as twenty levels deep. They Melairkyn dwarves first excavated the tunnels that would become Undermountain, and the drow are said to have dug their own tunnels up from below. All were claimed, altered, and expanded by the mad wizard Halaster and his apprentices &mdash; who are believed to dwll in the dungeons to this day. What drove them deep into the earth remains a mystery, but Undermountain's allure is a siren song that still draws many. If you want to see adventurers descend into the depths, or perhaps glimpse some returning with wonderous treasures, visit the Yawning Portal in the Castle Ward.
-
+\page
 
 ## The City's Splendors
 
@@ -536,7 +531,7 @@ Riders of the Griffon Cavalry are trained to stay above the rooftops, not becaus
 ### The Walking Statues
 
 Over a century ago, just one of these eight behemoth statues stood visible at the northern foot of Mount Waterdeep, on a bluff called Gull Leap. Ninety feet tall, it resembled a bald human staring out to sea. Later events (discussed below) caused it to be transformed into the statue known today as the Sahuagin Humbled.
-
+\page
 When the Spellplague gripped Waterdeep in 1385 DR, six more walking statues suddenly appeared in the city, wandering to wreak havoc even as the Sahuagin Humbled remained motionless. The authorities and citizens of Waterdeep succeeded in stopping three of these new statues, breaking the Swordmaiden and the Hawk Man, and sinking the God Catcher into the street up to its waist. Then all the statues mysteriously stopped their rampage just as quickly as they had begin it. Tsarra Chaadren, the Blackstaff at the time, couldn't command them to return to their former hiding places on the Ethereal Plane. Consequently, the city repaired itself and built up around them. Much later, in 1479 DR, the eighth statue &mdash; the Griffon &mdash; emerged from the Ethereal Plane to defend Ahghairon's Tower against intrusion. It roosted there for a time before flying to its current position near Peaktop Aerie on Mount Waterdeep. Once more, this activity seemed to be outside the Blackstaff's control. Thankfully, all the walking statues have been dormant for well over a decade now, serving only as beautiful, cyclopean reminders of Waterdeep's might.
 
 #### The God Catcher
@@ -571,7 +566,7 @@ The Honorable Knight is a statue of a male warrior in plate armor with a shield 
 #### The Hawk Man
 
 This statue looks like a winged, hawk-headed being, and this locals call it the Hawk Man. I can reveal that in fact it bears much resemblance to an aarakocra, one of the bird-people said to live in the Star Mounts in the High Forest. The statue's wings are folded tightly against its back and have never unfurled, leaving its flight capability uncertain. It was brought low during its rampage across the city, and now it tilts decidedly toward the northeast due to a missing right foot &mdash; long ago broken up for building rubble, along with its right arm. Its left arm is extended out toward the north, palm forward as if in a gesture to say, "Stop."
-
+\page
 
 
 The body has been hollowed out and turned into a tower shared by several wealthy tenants, which is officially known as Sparaunt Tower after its owner. The statue's left hand extends over a courtyard to the north, wherein lies the entrance of a tunnel carved through the arm. Visitors and residents can ring a bell in the courtyard, whereupon a door guard acknowledges the ringer and lowers a rope ladder for tenants and expected guests (or a rope chair that is drawn up for guests who are infirm or laden with heavy items).
@@ -601,7 +596,7 @@ Waterdeep has as many alleys as Baldur's Gate has cats, and each has a name and 
 **_Three Daggers Alley._** This alley in the Dock Ward suffers from a magical curse that causes three daggers to appear out of thin air and attack passersby. The daggers swoop and fly about, making multiple attempts at murder before vanishing again. This magical effect, the result of a spell cast by a long-dead wizard, has resisted all attempts to dispel it. Some locals boast of how many times they've crossed the alley and lived to tell of it, but the appearance of the daggers is entirely a matter of chance, and unpredictable. So take my advice and don't test Tymora's favor.
 </div>
 
-
+\page
 
 ### City Celebrations
 
@@ -640,7 +635,7 @@ This festival has long gathered a number of older holidays under one name, stret
 **Caravance (Tarsahk 1).** This gift-giving holiday commemorates the traditional arrival of the first caravans of the seasons into the city. Many parents hide gifts for their offspring in their homes, telling the children that they were left by Old Carvas &mdash; a mythical peddler who arrived with the first caravan to reach Waterdeep, his wagon loaded down with toys for children to enjoy.
 
 **Goldenight (Tarsahk 5).** This festival celebrates coin and gold, with many businesses staying open all night, offering midnight sales and other promotions. Some celebrants and customers decorate themselves with gold dust and wear coins as jewelry.
-
+\page
 **Guildsmeet (Tarsahk 7).** On this holiday, guild members gather in their halls for the announcement of new policies and a celebration of business concluded for the year. These gatherings culminate in a gala festival and dance sponsored by several guilds, which lasts from dusk till dawn and overruns the Market, the Cynosure, the Field of Triumph, and all areas in between.
 
 **Leiruin (Tarsahk 10).** In times long past, Waukeen caught Leira, the goddess of illusions and deception, attempting to cheat her in a deal, and buried her under a mountain of molten gold as punishment. A commemortation of that event, Leiruin is the day for guild members to pay their annual dues and for guildmasters to meet with the Lords of Waterdeep and renew their charters for another year.
@@ -676,7 +671,7 @@ Sornyn is a festival of Waukeen and Lathander, and is used for planning business
 #### Flamerule 7: Lliira's Night
 
 Originally a celebration held only in Waterdeep, this holiday has since spread up and down the Sword Coast. It has received a recent boost in popularity from the custom started in Baldur's Gate of lighting celebratory smokepowder fireworks &mdash; all purchased from Felogyr's Fireworks of that city, and utilized only by the City Guard, of course. This nightlong festival honors the Lady of Joy with dances and balls throughout the city. Pink beverages, ranging from healthy juices to deadly strong intoxicants, are imbibed. The boom and crackle of smokepowder explosions go off all night long, so you might as well stay up with the locals and enjoy the show.
-
+\page
 #### Eleasis 1: Ahghairon's Day
 
 Many small rituals are held throughout this day, dedicated to honoring the first Open Lord. The Lords of Waterdeep toast Ahghairon and the Watchful Order, and guildmasters toast the Lords in Ahghairon's name. Commoners leave violets (Ahghairon's favorite flower) around Ahghairon's Tower, on his statue in the City of the Dead, and atop the altars of the House of Wonder. Bards perform songs in honor of the wizard all over the city. The Open Lord visits taverns and inns throughout Waterdeep to wish the people well &mdash; giving short speeches, offering toasts to Ahghairon's memory, buying rounds of drinks, or paying for meals or accommodation. Needless to say, establishments of those sorts are generally full throughout the day.
@@ -712,7 +707,7 @@ This holy day pays tribute to Leira and Mask. To placate those deities and ward 
 The festivities begin in the evening, when people place candles in hollowed-out gourds or pumpkins carved with faces. Each pumpkin represents a person donning a mask, while the light inside represents the truth of the soul. For as long as the candle remains lit, lies told and embarrassing things done don't sully a person's reputation, so celebrations often descend briefly into anarchic hedonism.
 
 Misfortune is said to come to anyone who returns to their pumpkin after celebrating to find it unlit, so buy a candle of good quality and put your gourd beyond reach of the wind. Intentionally blowing out someone else's candle or smashing someone else's pumpkin is taboo, and risks the wrath of both gods &mdash; yet it does occur.
-
+\page
 Tricks and pranks of all kinds are common on this night, and folk expect lies and foolishness. Pickpockets are rife on this day, so few carry much coin with them, having secreted it away somewhere the previous evening. Instead, people fill their pockets and belt pouches with candies. Traditionally, a pickpocket is meant to take the candy and leave a token in return (a tiny toy, a colorful paper folded into a shape, or the like), but this has changed over the years into adults exchanging candies among themselves and simply giving candy to children who ask for it.
 
 By custom, no deals are made nor contracts signed on Liar's Night, because no one trusts that parties will abide by them. Illusionists and stage magicians (whether through magical or practical abilities) make the rounds to entertain private parties (having been paid in advance the previous day) or to perform in public spaces, in the hopes that a good show will earn them a meal, and perhaps a place at a private party in the future.

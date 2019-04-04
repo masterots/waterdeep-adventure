@@ -3,34 +3,18 @@ title: Volo's Waterdeep Enchiridion
 # layout: post
 ---
 
-<style>
-  .phb#p1{ text-align:center; }
-  .phb#p1:after{ display:none; }
-</style>
-
-<div style='margin-top:450px;'></div>
-
 # Volo's Waterdeep Enchiridion
 
-<div class='wide'>
 ## A Visitor's Guide to the City's Splendors
-<div style='margin-top:25px'></div>
 
 ## By Volothamp Geddarm
 
 **_Under the generous patronage of the Lords Melshimber_**
 
-</div>
-<div class='wide'>
-  **Published by Tym Waterdeep Limited in association with the
+**Published by Tym Waterdeep Limited in association with the Fellowship of Innkeepers and the Fellowship of Carters and Coachmen**
 
-Fellowship of Innkeepers and the Fellowship of Carters and Coachmen**
-
-  <div style='margin-top:140px'>
 #### I, Volothamp Geddarm, verily attest to the veracity of the words printed herein. "Set your course by the truth and you shall never be lost, no matter how far you wander." I coined this well-worn adage myself years ago, and it has served me well in all my travels.[1]
-  </div>
 
-  <div class='footnote'>
 [1]Consider any antinomy, jactitation, mendacity, obloquy, pasquinade, parapraxis, traducement, or similar found in this document to be corrigendum.
 
 Address all claims of such to:
@@ -38,19 +22,10 @@ Abricade Fellswop, Solicitor
 17 Mulgomir's Way, Castle Ward
 Waterdeep
 
-</div>
 
-</div>
-
-
-
-<div class='wide'>
 Welcome, Traveler! You have in your hands the foremost and most up-to-date guide to the city &mdash; smiled over by none other than its Open Lord, Lady Laeral Silverhand. This chapbook will serve you well until my semindal work on the subject, Volo's Guide to Waterdeep &mdash; sadly long out of print, but now a tome prized by collectors &mdash; can be updated and printed anew. Ask any broadsheet seller, innkeeper, shopkeeper, tavern owner, or bookseller if they'll soon have copies of the new edition for sale!
-</div>
 
-<div class='wide'>
 ### Entering Waterdeep
-</div>
 
 Likely you have already arrived in Waterdeep and borne witness to some of its many wonders. But in case this pamphlet has found its way beneath your worthy eyes in anticipation of your visit, due to the commendable efforts of some friend or family member who loves you dearly, I shall explain briefly the circumstances of entry.
 
@@ -76,9 +51,8 @@ The splendors that await you in Waterdeep are legendary. Each of the city's ward
 
 
 
-<div class='wide'>
+
 ### A Long History (in Brief)
-</div>
 
 > "There shall come a time when our city and its deepwater bay
 > shall grow in fame and fortune across many realms and many
@@ -86,7 +60,7 @@ The splendors that await you in Waterdeep are legendary. Each of the city's ward
 > and sing its praises. I have seen it thus, and I endeavor to
 > make it true."
 >
-> <div style='text-align: right; width: 250px; float: right'>&mdash; Ahghairon, the first Open Lord of Waterdeep, circa 1032 DR</div>
+> &mdash; Ahghairon, the first Open Lord of Waterdeep, circa 1032 DR
 
 People have inhabited the plateau upon which Waterdeep stands for longer than human histories record. But as is the way across the dangerous North, civilization at the foot of Mount Waterdeep has crested and ebbed in great waves. Elf scholars assure me that it was once the site of Aelinthaldaar, the capital of their ancient empire of Illefarn. So it was already a glorious place when a dwarf prospector named Melair discovered mithral beneath the mountain. In agreement with the Illefarni, Melair called kith and kin to mine under the mountain and in the plateau, and thus Clan Melairkyn came to rule below as the Illefarni did above.
 
@@ -128,12 +102,11 @@ Apparently all of this was forseen by Waterdeep's legendary wizard Khelben Aruns
 
 
 
-<div class='wide'>
+
   <img
   src='https://media-waterdeep.cursecdn.com/attachments/4/337/9003.png'
   style='width:100%' />
 ### Surviving in the City
-</div>
 
 Waterdeep is, by and large, the most civilized city on the Sword Coast. Yet civilized doesn't mean safe, nor does it mean easy to navigate. Many day-to-day elements of life in Waterdeep that residents take for granted are, to new arrivals, a bevy of wonders and dangers not seen in any other settlement within a thousand miles. Here's what you need to know to survive your first few hours in the city. mark this section for frequent reference!
 
@@ -234,14 +207,12 @@ Proud Mount Waterdeep provides a useful landmark for general orientation. It sta
 
 One of Waterdeep's titanic walking statues, no longer mobile, offers antoher way to orient yourself on a local scale. At nine stories tall, twice the height of any buildings nearby, the Honorable Knight stands guard in a block of buildings between Snail Street and the Way of the Dragon. Positioned as it is night the place where four wards meet, and you can use it to judge where you stand. If it is south and west of your position, you are in the Trades Ward. North and west? The Southern Ward. South and east? The Castle Ward North and east? You're in the Dock Ward.
 
-<div class='descriptive'>
 ##### The Unflappable Waterdavian
 
 Natives of the City of Splendors are notoriously slow to take offense. A Waterdavian plainly states their feelings as a warning, so that one is apt to hear "I don't find that amusing, friend," said pleasantly before real anger is shown. Some visitors misinterpret such behavior as cowardice or ignorance ("He was too stupid to realize I insulted him!"). For those who act on such misjudgements, however, surprise and regret are the usual results.
 
 Most Waterdavians are also slow to take fright unless facing magic or monsters. A swaggering warrior threatening them is quite likely to be stared at calmly, or even sneered at. "The only mortals that Waterdavians fear are a few unstable wizards and the Lords," Durnan often says to those who are surprised by the nochalance of the Yawning Portal's regulars concerning the open entrance to Undermountain in their midst. "And only when they've incurred the wrath of said persons themselves."
 
-</div>
 
 ##### Traffic Wardens
 
@@ -279,7 +250,6 @@ Above all, be polite. Always address a known noble as "Lord" or "Lady." A short 
 
 If you're not certain whether someone is a noble, address the gentleman as "Saer", or the gentlewoman as "Goodwoman." Neither will give offense, and generally a noble will politely correct you as to their actual title.
 
-<div class='descriptive'>
 ##### A Wonderous People
 
 Whenever you find yourself in a bustling city, you're likely to spot a wonderful variety of folk. You hear words in languages utterly foreign to you, and you smell dishes both delectable and strange. Waterdeep is the ultimate city of such delights, and before long, the alien thing becomes familiar to you, and the stranger becomes your friend.
@@ -288,7 +258,6 @@ The people of Waterdeep are among the greatest of its splendors. Fashion, compor
 
 The city is also a haven for those who define for themselves what it means to be a man or a woman, those who transcend gender as the gods do, and those who redefine entirely who they are. What confidence! I never tire of witnessing it. I have seen folk in Waterdeep whose lives are more magical than the marvels possible with spells
 
-</div>
 
 ##### Nobles and Patronage
 
@@ -330,7 +299,7 @@ Each ward has its own history, legends, and traditions based around who lived th
 
 These shared stories and traditions impart to each ward a different culture, just as much as distinctions of class and wealth. Yet nothing drives residents to identify with their wards as much as festivals and sport. Nearly every race and parade in the city features a competition between wards as part of the festivities. On such days, homes and businesses fly the colors of their wards, trot out their mascots, and sing rousing songs that celebrate where they live. If you stay in the city for even a month, you're sure to see some version of this display of civic spirit.
 
-<div class='description'>
+
 
 ##### Speak Like a Native
 
@@ -348,7 +317,6 @@ The many idioms and slang expressions of Waterdavians would take a whole book to
 
 These scornful words are remembered and used almost daily in Waterdeep even a century later.
 
-</div>
 
 #### Sea Ward
 
@@ -382,7 +350,7 @@ The liveliest, and perhaps the loveliest, part of the ward is the Cliffwatch. He
 
 The North Ward's colors are green and orange, and its mascot is the gentle white dove, depicted in flight. Many North Ward homes have dovecotes on their roofs, and the great flocks of the birds that circle over the city at dawn and dusk are a delight to behold.
 
-<div class='wide'>
+
 ##### Major Temples of Waterdeep
 | Deity or Deities   | Temple Name              | Location      |
 | :----------------- | :----------------------- | :------------ |
@@ -401,7 +369,6 @@ The North Ward's colors are green and orange, and its mascot is the gentle white
 | Tymora             | Tower of Luck            | Castle Ward   |
 | Tyr                | Halls of Justice         | Castle Ward   |
 | Umberlee           | The Queenspire           | Beach         |
-</div>
 
 #### Castle Ward
 
@@ -485,13 +452,11 @@ The area is a muddy mess, populated by the poorest people and those who take adv
 
 The Guild of Butchers operates several slaughterhouses, smokehouses, and leather-making facilities in the area &mdash; noisome operations that have been pushed out of the city proper. A word to the wise: being friendly with a burly fellow who is good with a knife is one of your best defenses in the Field Ward. The other place you might solicit aid is Endshift Tavern, a popular stop for off-duty members of the City Guard, situated on the corner of Endshift Street and the Breezeway. Though the guards might not be inclined to assist you, your status as a visitor to Waterdeep technically obliges them to help you reach the city proper in safety.
 
-<div class='descriptive'>
 ##### The Wonders of the Waymoot
 
 The place where the High Road and the Way of the Dragon meet in the south of the city is called the Waymoot. At the center of the crossroads, a high signpost stands with hanging arrows pointing toward the harbor and each of the city gates. Created by the Watchful Order of Magists and Protectors and funded by local merchants, the signpost magically directs travelers to well-known distant locations when the names of those locations are spoken into a crystal on the post. The magic of the Waymoot writes the destination onto the proper arrow of the signpost and indicates its distance from Waterdeep in miles. Folk are thereby sent out of the harbor or the appropriate gate leading north, east, or south, depending on their destination.
 
 Unfortunately for newcomers, the Waymoot is of no use whatsoever in finding locations within Waterdeep. You will, however, find a number of enterprising individuals near the crossroads who take advantage of this fact to offer their services as city guides. Though some reputable members of this cadre will guide you true for a fair fee, plenty of citizens with nothing to lose or gain by doing so will readily set you on the right course if you're simply polite.
-</div>
 ```
 ```
 
@@ -583,7 +548,6 @@ This statue appears virtually identical to the Honorable Knight, except for its 
 The head of the Swordmaiden sits in a stand of tall trees in the center of the block of the North Ward bounded by Hassantyr's Street, Tarsar's Street, Whaelgond Way, and Ussilbran Street. The center of its jaw and mouth have been replaced by a door, which leads into the shop known as Thort's Findings. Undevvur Thort is a wizend ex-adventurer who leans on a cane (which some locals insist is more than just a cane). He lives in the small shop, whose many levels, staircases, and landings fill the hollowed-out interior of the head, and which is crammed with oddments sold to Thort by adventurers and other travelers. These items bear little placards in Thort's beautiful, flowing handwriting that identify them (or at least provide speculation as to their origin and purpose). Nobles and wealthy merchants who desire props for themed revels often rent some of Thort's wares as decoration &mdash; and many sages, alchemists, and wizards visit him regularly in search of potentially useful items.
 ```
 ```
-<div class='descriptive'>
 ##### Infamous Alleys
 
 Waterdeep has as many alleys as Baldur's Gate has cats, and each has a name and a story. Here are a few that you might wish to see &mdash; or should know to avoid.
@@ -599,7 +563,6 @@ Waterdeep has as many alleys as Baldur's Gate has cats, and each has a name and 
 **_Pharra's Alley._** This alley in the Sea Ward is named after the first leader of the House of Wonder, but is more infamous its Circle of Skulls. This infrequent and unpredictable haunting takes the form of seven floating skulls, which hover in a circle and argue with one another in whispered tones about events in the city. If they are interrupted, their reaction reportedly varies from being helpful to engaging in murderous spell-slinging.
 
 **_Three Daggers Alley._** This alley in the Dock Ward suffers from a magical curse that causes three daggers to appear out of thin air and attack passersby. The daggers swoop and fly about, making multiple attempts at murder before vanishing again. This magical effect, the result of a spell cast by a long-dead wizard, has resisted all attempts to dispel it. Some locals boast of how many times they've crossed the alley and lived to tell of it, but the appearance of the daggers is entirely a matter of chance, and unpredictable. So take my advice and don't test Tymora's favor.
-</div>
 
 
 
