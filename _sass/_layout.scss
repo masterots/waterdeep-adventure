@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  flex-direction: row;
+
+  nav {
+    width: 300px;
+
+    li {
+      margin-left: 10px;
+    }
+  }
+
+  .phb {
+    width: 800px;
+  }
+}
