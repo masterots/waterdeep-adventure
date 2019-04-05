@@ -1,5 +1,12 @@
 ---
 title: Amenities
+layout: volosEnchiridion
+previous_page:
+  title: The City's Splendors
+  url: /sections/VolosEnchiridion/citys-splendors.html
+next_page:
+  title: The Griffon Cavalry
+  url: /sections/VolosEnchiridion/citys-splendors/griffon-cavalry.html
 ---
 
 ### Amenities

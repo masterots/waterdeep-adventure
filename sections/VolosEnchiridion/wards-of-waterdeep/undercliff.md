@@ -1,5 +1,12 @@
 ---
 title: Undercliff
+layout: volosEnchiridion
+previous_page:
+  title: The Wonders of the Waymoot
+  url: /sections/VolosEnchiridion/wards-of-waterdeep/wonders-waymoot.html
+next_page:
+  title: Undermountain
+  url: /sections/VolosEnchiridion/wards-of-waterdeep/undermountain.html
 ---
 
 ##### Undercliff

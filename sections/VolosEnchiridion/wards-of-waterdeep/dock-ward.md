@@ -1,5 +1,12 @@
 ---
 title: Dock Ward
+layout: volosEnchiridion
+previous_page:
+  title: Southern Ward
+  url: /sections/VolosEnchiridion/wards-of-waterdeep/southern-ward.html
+next_page:
+  title: City of the Dead
+  url: /sections/VolosEnchiridion/wards-of-waterdeep/city-dead.html
 ---
 
 #### Dock Ward

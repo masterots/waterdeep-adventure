@@ -1,5 +1,12 @@
 ---
 title: Undermountain
+layout: volosEnchiridion
+previous_page:
+  title: Undercliff
+  url: /sections/VolosEnchiridion/wards-of-waterdeep/undercliff.html
+next_page:
+  title: The City's Splendors
+  url: /sections/VolosEnchiridion/citys-splendors.html
 ---
 
 ##### Undermountain

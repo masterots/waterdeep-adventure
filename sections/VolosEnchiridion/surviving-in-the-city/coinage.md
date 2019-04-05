@@ -1,5 +1,12 @@
 ---
 title: Coinage
+layout: volosEnchiridion
+previous_page:
+  title: The Watchful Order of Magists and Protectors
+  url: /sections/VolosEnchiridion/surviving-in-the-city/watchful-order-magists-protectors.html
+next_page:
+  title: Taxes and Fees
+  url: /sections/VolosEnchiridion/surviving-in-the-city/taxes-fees.html
 ---
 
 #### Coinage

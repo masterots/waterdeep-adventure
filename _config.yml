@@ -1,2 +1,25 @@
 theme: jekyll-theme-primer
-urlprefix: '/waterdeep-adventure'
+url_prefix: '/waterdeep-adventure'
+navigation_options:
+  - page:
+      title: Welcome!
+      url: '/sections/VolosEnchiridion/welcome.html'
+  - page:
+      title: Entering Waterdeep
+      url: '/sections/VolosEnchiridion/entering-waterdeep.html'
+  - page:
+      title: A Long Hisory (in Brief)
+      url: '/sections/VolosEnchiridion/a-long-history.html'
+  - page:
+      title: Surviving in the City
+      url: '/sections/VolosEnchiridion/surviving-in-the-city.html'
+      children:
+        - page:
+            title: The Code Legal
+            url: /sections/VolosEnchiridion/surviving-in-the-city/the-code-legal.html
+        - page:
+            title: Arms, Armor, and Combat
+            url: /sections/VolosEnchiridion/surviving-in-the-city/arms-armor-combat.html
+        - page:
+            title: City Watch
+            url: /sections/VolosEnchiridion/surviving-in-the-city/city-watch.html

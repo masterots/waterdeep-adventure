@@ -1,5 +1,12 @@
 ---
 title: Taxes and Fees
+layout: volosEnchiridion
+previous_page:
+  title: Coinage
+  url: /sections/VolosEnchiridion/surviving-in-the-city/coinage.html
+next_page:
+  title: Getting About
+  url: /sections/VolosEnchiridion/surviving-in-the-city/getting-about.html
 ---
 
 #### Taxes and Fees

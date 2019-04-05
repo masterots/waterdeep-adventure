@@ -1,5 +1,12 @@
 ---
 title: The Watchful Order of Magists and Protectors
+layout: volosEnchiridion
+previous_page:
+  title: City Watch
+  url: /sections/VolosEnchiridion/surviving-in-the-city/city-watch.html
+next_page:
+  title: Coinage
+  url: /sections/VolosEnchiridion/surviving-in-the-city/coinage.html
 ---
 
 #### The Watchful Order of Magists and Protectors

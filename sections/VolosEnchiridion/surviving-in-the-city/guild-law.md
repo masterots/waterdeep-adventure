@@ -1,5 +1,12 @@
 ---
 title: Guilds and Guild Law
+layout: volosEnchiridion
+previous_page:
+  title: Nobility
+  url: /sections/VolosEnchiridion/surviving-in-the-city/nobility.html
+next_page:
+  title: The Wards of Waterdeep
+  url: /sections/VolosEnchiridion/wards-of-waterdeep.html
 ---
 
 #### Guilds and Guild Law

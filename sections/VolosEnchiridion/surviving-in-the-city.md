@@ -1,5 +1,12 @@
 ---
 title: Surviving in the City
+layout: volosEnchiridion
+previous_page:
+  title: A Long History (in Brief)
+  url: /sections/VolosEnchiridion/a-long-history.html
+next_page:
+  title: The Code Legal
+  url: /sections/VolosEnchiridion/surviving-in-the-city/the-code-legal.html
 ---
 
 ### Surviving in the City

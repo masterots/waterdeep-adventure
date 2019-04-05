@@ -1,5 +1,12 @@
 ---
 title: Sea Ward
+layout: volosEnchiridion
+previous_page:
+  title: Speak Like a Native
+  url: /sections/VolosEnchiridion/wards-of-waterdeep/speak-like-native.html
+next_page:
+  title: North Ward
+  url: /sections/VolosEnchiridion/wards-of-waterdeep/north-ward.html
 ---
 
 #### Sea Ward

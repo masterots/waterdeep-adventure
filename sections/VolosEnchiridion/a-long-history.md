@@ -1,5 +1,12 @@
 ---
 title: A Long History (in Brief)
+layout: volosEnchiridion
+previous_page:
+  title: Entering Waterdeep
+  url: /sections/VolosEnchiridion/entering-waterdeep.html
+next_page:
+  title: Surviving in the City
+  url: /sections/VolosEnchiridion/surviving-in-the-city.html
 ---
 
 ### A Long History (in Brief)

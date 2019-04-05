@@ -1,3 +1,14 @@
+---
+title: Nobility
+layout: volosEnchiridion
+previous_page:
+  title: Getting About
+  url: /sections/VolosEnchiridion/surviving-in-the-city/getting-about.html"
+next_page:
+  title: Guilds and Guild Law
+  url: /sections/VolosEnchiridion/surviving-in-the-city/guild-law.html
+---
+
 #### Nobility
 
 While you might encounter dwarf diplomats from Gauntlgrym, satraps of Amn, duchesses of Tethyr, or thanes of the Northlanders in Waterdeep, the nobles you really need to know about are the city's own. Seventy-eight noble family lines are found here, many of which can trace their lineage back to the city's founding. Books have been written about individual families &mdash; histories of their accomplishments and how they fit into the webs of wealth and patronage that govern nobles' activities &mdash; so it is beyond the scope of a pamphlet this size to attempt to describe their particulars. I can, however, endeavor you to equip you with the tools to recognize nobility and to interact with the higher class.

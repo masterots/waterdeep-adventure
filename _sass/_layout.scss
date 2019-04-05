@@ -1,16 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
 .container {
   display: flex;
   flex-direction: row;
 
-  nav {
-    width: 300px;
-
-    li {
-      margin-left: 10px;
-    }
+  .navigation {
+    min-width: 300px;
+    padding: 3rem 1.5rem;
   }
 
   .phb {
-    width: 800px;
+    padding: 3rem;
+
+    // .content {
+    //   max-width: 800px;
+    // }
   }
 }

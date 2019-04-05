@@ -1,5 +1,12 @@
 ---
 title: Speak Like a Native
+layout: volosEnchiridion
+previous_page:
+  title: The Wards of Waterdeep
+  url: /sections/VolosEnchiridion/wards-of-waterdeep.html
+next_page:
+  title: Sea Ward
+  url: /sections/VolosEnchiridion/wards-of-waterdeep/sea-ward.html
 ---
 
 #### Speak Like a Native

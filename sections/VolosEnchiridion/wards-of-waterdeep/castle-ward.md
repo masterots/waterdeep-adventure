@@ -1,5 +1,12 @@
 ---
 title: Castle Ward
+layout: volosEnchiridion
+previous_page:
+  title: North Ward
+  url: /sections/VolosEnchiridion/wards-of-waterdeep/north-ward.html
+next_page:
+  title: Trades Ward
+  url: /sections/VolosEnchiridion/wards-of-waterdeep/trades-ward.html
 ---
 
 #### Castle Ward

@@ -1,5 +1,9 @@
 ---
 title: City Celebrations
+layout: volosEnchiridion
+previous_page:
+  title: The Walking Statues
+  url: /sections/VolosEnchiridion/citys-splendors/walking-statues.html
 ---
 
 ### City Celebrations

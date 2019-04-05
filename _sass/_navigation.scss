@@ -1,0 +1,42 @@
+.navigation {
+  background-color: #eee5ce;
+
+  li {
+    margin-left: 10px;
+    padding: 10px 0;
+
+    & > ul {
+      padding-top: 10px;
+    }
+
+    a {
+      font-family: MrJeeves;
+      font-weight: 800;
+      font-size: 1.2rem;
+      color: #58180d;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+.page-navigation {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 2rem;
+
+  .button {
+    background-color: #58180d;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    font-family: MrJeeves;
+    font-weight: 800;
+    font-size: 1.2rem;
+  }
+}

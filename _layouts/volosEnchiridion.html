@@ -2,4 +2,20 @@
 layout: default
 ---
 
-{{ content }}
+<div class="content">{{ content }}</div>
+
+<div class="page-navigation">
+  {% if page.previous_page %}
+  <a
+    class="button previous-page"
+    href="{{ site.url_prefix }}{{ page.previous_page.url }}"
+    >{{ page.previous_page.title }}</a
+  >
+  {% endif %} {% if page.next_page %}
+  <a
+    class="button next-page"
+    href="{{ site.url_prefix }}{{ page.next_page.url }}"
+    >{{ page.next_page.title }}</a
+  >
+  {% endif %}
+</div>

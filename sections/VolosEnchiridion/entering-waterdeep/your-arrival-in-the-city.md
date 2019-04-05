@@ -1,6 +1,12 @@
 ---
 title: Volo's Waterdeep Enchiridion
 layout: volosEnchiridion
+previous_page:
+  title: Welcome!
+  url: /sections/VolosEnchiridion/welcome.html
+next_page:
+  title: A Long History (in Brief)
+  url: /sections/VolosEnchiridion/a-long-history.html
 ---
 
 ### Your Arrival in the City

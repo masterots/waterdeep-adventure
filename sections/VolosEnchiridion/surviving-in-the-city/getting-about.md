@@ -1,5 +1,12 @@
 ---
 title: Getting About
+layout: volosEnchiridion
+previous_page:
+  title: Taxes and Fees
+  url: /sections/VolosEnchiridion/surviving-in-the-city/taxes-fees.html
+next_page:
+  title: Nobility
+  url: /sections/VolosEnchiridion/surviving-in-the-city/nobility.html
 ---
 
 #### Getting About

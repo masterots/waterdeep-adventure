@@ -1,5 +1,12 @@
 ---
 title: The City's Splendors
+layout: volosEnchiridion
+previous_page:
+  title: Undermountain
+  url: /sections/VolosEnchiridion/wards-of-waterdeep/undermountain.html
+next_page:
+  title: Amenities
+  url: /sections/VolosEnchiridion/citys-splendors/amenities.html
 ---
 
 ## The City's Splendors

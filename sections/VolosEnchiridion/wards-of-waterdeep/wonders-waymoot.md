@@ -1,5 +1,12 @@
 ---
 title: The Wonders of the Waymoot
+layout: volosEnchiridion
+previous_page:
+  title: Field Ward
+  url: /sections/VolosEnchiridion/wards-of-waterdeep/field-ward.html
+next_page:
+  title: Undercliff
+  url: /sections/VolosEnchiridion/wards-of-waterdeep/undercliff.html
 ---
 
 ##### The Wonders of the Waymoot

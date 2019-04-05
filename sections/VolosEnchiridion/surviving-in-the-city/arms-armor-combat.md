@@ -1,5 +1,12 @@
 ---
 title: Arms, Armor, and Combat
+layout: volosEnchiridion
+previous_page:
+  title: The Code Legal
+  url: /sections/VolosEnchiridion/surviving-in-the-city/the-code-legal.html
+next_page:
+  title: City Watch
+  url: /sections/VolosEnchiridion/surviving-in-the-city/city-watch.html
 ---
 
 #### Arms, Armor, and Combat

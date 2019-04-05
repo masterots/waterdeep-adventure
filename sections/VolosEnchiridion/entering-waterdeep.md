@@ -1,6 +1,12 @@
 ---
 title: Volo's Waterdeep Enchiridion
 layout: volosEnchiridion
+previous_page:
+  title: Welcome!
+  url: /sections/VolosEnchiridion/welcome.html
+next_page:
+  title: A Long History (in Brief)
+  url: /sections/VolosEnchiridion/a-long-history.html
 ---
 
 ## Entering Waterdeep
@@ -22,3 +28,7 @@ Regardless of what size party you arrive with or by what means, if you arrive by
 None of these rules apply to the city's least used gate, the West Gate. This smaller gate opens onto the Mud Flats &mdash; a mucky beach used by clam diggers, shore fishers, and those brave enough to bathe in the cold waves. Those who make a living through fishing with nets or traps also use this gate, keeping their small boats on the beach to avoid docking fees. Locals register with the Guard as they exit and as they enter. No magister is stationed at the gate, but no new arrivals to Waterdeep are accepted here.
 
 If you approach by air, expect a vigorous pursuit and confrontation with the Griffon Cavalry. Only specially licensed individuals and mounts can fly over Waterdeep. It is best to land well outside the city and approach on foot.
+
+### Your Arrival in the City
+
+The splendors that await you in Waterdeep are legendary. Each of the city's wards is detailed in this work, telling you what to expect depending on where you are, as well as what thrilling things you might see and do. Before that, however, there are the small matters of knowing something of the history of the place you visit, and of understanding how to comport yourself in the Sword Coast's grandest metropolis.

@@ -1,5 +1,12 @@
 ---
 title: The Wards of Waterdeep
+layout: volosEnchiridion
+previous_page:
+  title: Guilds and Guild Law
+  url: /sections/VolosEnchiridion/surviving-in-the-city/guild-law.html
+next_page:
+  title: Speak Like a Native
+  url: /sections/VolosEnchiridion/wards-of-waterdeep/speak-like-native.html
 ---
 
 ### The Wards of Waterdeep

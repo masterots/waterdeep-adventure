@@ -1,5 +1,12 @@
 ---
 title: The Griffon Cavalry
+layout: volosEnchiridion
+previous_page:
+  title: Amenities
+  url: /sections/VolosEnchiridion/citys-splendors/amenities.html
+next_page:
+  title: The Walking Statues
+  url: /sections/VolosEnchiridion/citys-splendors/walking-statues.html
 ---
 
 ### The Griffon Cavalry

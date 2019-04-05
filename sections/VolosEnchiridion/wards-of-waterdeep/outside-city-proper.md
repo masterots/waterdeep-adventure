@@ -1,5 +1,12 @@
 ---
 title: Outside the City Proper
+layout: volosEnchiridion
+previous_page:
+  title: City of the Dead
+  url: /sections/VolosEnchiridion/wards-of-waterdeep/city-dead.html
+next_page:
+  title: Field Ward
+  url: /sections/VolosEnchiridion/wards-of-waterdeep/field-ward.html
 ---
 
 #### Outside the City Proper

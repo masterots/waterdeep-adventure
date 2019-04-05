@@ -1,5 +1,12 @@
 ---
 title: City of the Dead
+layout: volosEnchiridion
+previous_page:
+  title: Dock Ward
+  url: /sections/VolosEnchiridion/wards-of-waterdeep/dock-ward.html
+next_page:
+  title: Outside the City Proper
+  url: /sections/VolosEnchiridion/wards-of-waterdeep/outside-city-proper.html
 ---
 
 #### City of the Dead

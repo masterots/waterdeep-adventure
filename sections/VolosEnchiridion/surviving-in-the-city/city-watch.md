@@ -1,5 +1,12 @@
 ---
 title: City Watch
+layout: volosEnchiridion
+previous_page:
+  title: Arms, Armor, and Combat
+  url: /sections/VolosEnchiridion/surviving-in-the-city/arms-armor-combat.html
+next_page:
+  title: The Watchful Order of Magists and Protectors
+  url: /sections/VolosEnchiridion/surviving-in-the-city/watchful-order-magists-protectors.html
 ---
 
 #### City Watch

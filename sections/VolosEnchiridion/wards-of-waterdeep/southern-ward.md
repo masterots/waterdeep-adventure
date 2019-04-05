@@ -1,5 +1,12 @@
 ---
 title: Southern Ward
+layout: volosEnchiridion
+previous_page:
+  title: Trades Ward
+  url: /sections/VolosEnchiridion/wards-of-waterdeep/trades-ward.html
+next_page:
+  title: Dock Ward
+  url: /sections/VolosEnchiridion/wards-of-waterdeep/dock-ward.html
 ---
 
 #### Southern Ward

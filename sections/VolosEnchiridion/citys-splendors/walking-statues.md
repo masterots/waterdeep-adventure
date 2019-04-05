@@ -1,5 +1,12 @@
 ---
 title: The Walking Statues
+layout: volosEnchiridion
+previous_page:
+  title: The Griffon Cavalry
+  url: /sections/VolosEnchiridion/citys-splendors/griffon-cavalry.html
+next_page:
+  title: City Celebrations
+  url: /sections/VolosEnchiridion/citys-splendors/city-celebrations.html
 ---
 
 ### The Walking Statues
